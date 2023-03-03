@@ -2,6 +2,14 @@
 <section name="Workbench">
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
 	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\cristian\git\serenity-cucumber-starter\.git"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/crist1333/serenity-cucumber-starter.git"/>
+	</list>
 	<section name="GitImportWizard">
 	</section>
 </section>
