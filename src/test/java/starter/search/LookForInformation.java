@@ -23,7 +23,7 @@ public class LookForInformation {
     }
     
     public static Performable anadirCarrito() {
-        return Task.where("añadir carrito",Click.on(SearchForm.BUTTON_AÑADIR_CARRITO)
+        return Task.where("añadir carrito",Click.on(SearchForm.BUTTON_ANADIR_CARRITO)
         );
     }
     
